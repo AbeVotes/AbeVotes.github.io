@@ -51,7 +51,7 @@ hr {
 }
 
 .section-title strong {
-	color: #00C6D7;
+	color: #ff751a;
   	font-size: 56px;
 }
 
@@ -67,7 +67,7 @@ hr {
   font-size: 32px !important;
 }
 
-#work,#about, #team, 
+#work,#about, #team,
 #portfolio, #pricing, #contact {
    padding-top: 100px;
   padding-bottom: 100px;
@@ -215,7 +215,7 @@ navigation section
     margin-bottom: 0;
 }
 .custom-navbar .navbar-brand  {
-  color: #00c6d7;
+  color: #ff751a;
   font-weight: 600;
   font-size: 24px;
 }
@@ -240,7 +240,7 @@ navigation section
   outline: none;
 }
 .custom-navbar .nav li.active > a {
-      color: #00c6d7;
+      color: #ff751a;
     }
 .custom-navbar .navbar-toggle {
         border: none;
@@ -281,6 +281,7 @@ home section
   text-align: center;
 }
 #home h1 {
+  color: #ff751a;
   font-size: 40px;
 }
 #home h3 {
@@ -303,11 +304,11 @@ home section
   transition: all 0.4s ease-in-out;
 }
 #home .btn:hover {
-  background: #00c6d7;
+  background: #ff751a;
   border-color: transparent;
 }
 #home .btn-danger {
-  background: #00c6d7;
+  background: #ffffff;
   border-color: transparent;
 }
 #home .btn-danger:hover {
@@ -692,7 +693,7 @@ footer p {
     #portfolio .col-md-4 {
       width: 33.333%;
     }
-  }    
+  }
 }
 
 /* ==========================================================================
